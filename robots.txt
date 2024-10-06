@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hpiumulo.github.io/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/app/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/assets/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/css/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/data/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/includes/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/item/sitemap.html.gz
+Sitemap: https://hpiumulo.github.io/src/sitemap.html.gz
